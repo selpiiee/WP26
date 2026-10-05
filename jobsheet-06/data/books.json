@@ -1,0 +1,12 @@
+[
+  { "title": "Laskar Pelangi", "author": "Andrea Hirata", "year": 2005, "category": "Novel", "stock": 4 },
+  { "title": "Bumi Manusia", "author": "Pramoedya Ananta Toer", "year": 1980, "category": "Historical Fiction", "stock": 2 },
+  { "title": "Negeri 5 Menara", "author": "Ahmad Fuadi", "year": 2009, "category": "Novel", "stock": 0 },
+  { "title": "Filosofi Teras", "author": "Henry Manampiring", "year": 2018, "category": "Self Improvement", "stock": 5 },
+  { "title": "Ronggeng Dukuh Paruk", "author": "Ahmad Tohari", "year": 1982, "category": "Literature", "stock": 1 },
+  { "title": "Cantik Itu Luka", "author": "Eka Kurniawan", "year": 2002, "category": "Fiction", "stock": 3 },
+  { "title": "Pulang", "author": "Tere Liye", "year": 2015, "category": "Action Fiction", "stock": 2 },
+  { "title": "Sang Pemimpi", "author": "Andrea Hirata", "year": 2006, "category": "Novel", "stock": 6 },
+  { "title": "Perahu Kertas", "author": "Dee Lestari", "year": 2009, "category": "Romance", "stock": 0 },
+  { "title": "Gadis Kretek", "author": "Ratih Kumala", "year": 2012, "category": "Historical Fiction", "stock": 4 }
+]
